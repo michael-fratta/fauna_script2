@@ -1,0 +1,1 @@
+worker: python fauna_script2.py
